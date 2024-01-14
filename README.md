@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duncanbmc
-- 🐒 There is unlikely to be any gained from reading this
+- 🐒 It is unlikely that anything will be gained by reading this
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
